@@ -1,5 +1,48 @@
 {
-    "subjects": {
-        "subject": "ПРЕДМЕТ"
+    "monday": {
+        "odd": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "labwork",
+                "audience": "-",
+                "teacher": "ФИО",
+                "subject": "Научно-исследовательская работа"
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "labwork",
+                "audience": "-",
+                "teacher": "ФИО",
+                "subject": "Научно-исследовательская работа"
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "lecture",
+                "audience": "3304",
+                "teacher": "Блинов А.Д.",
+                "subject": "Современные энергетические технологии"
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "lecture",
+                "audience": "3304",
+                "teacher": "Блинов А.Д.",
+                "subject": "Современные энергетические технологии"
+            }
+        }
     }
 }
