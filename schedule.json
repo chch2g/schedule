@@ -18,14 +18,14 @@
             "3": {
                 "time": "11:10-12:45",
                 "type": "labwork",
-                "audience": "-",
+                "audience": "",
                 "teacher": "ФИО",
                 "subject": "Научно-исследовательская работа"
             },
             "4": {
                 "time": "13:15-14:50",
                 "type": "labwork",
-                "audience": "-",
+                "audience": "",
                 "teacher": "ФИО",
                 "subject": "Научно-исследовательская работа"
             },
@@ -42,6 +42,590 @@
                 "audience": "3304",
                 "teacher": "Блинов А.Д.",
                 "subject": "Современные энергетические технологии"
+            }
+        },
+        "even": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "labwork",
+                "audience": "",
+                "teacher": "ФИО",
+                "subject": "Научно-исследовательская работа"
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "labwork",
+                "audience": "",
+                "teacher": "ФИО",
+                "subject": "Научно-исследовательская работа"
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        }
+    },
+    "tuesday": {
+        "odd": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "practice",
+                "audience": "2104",
+                "teacher": "Воеводин А.Г.",
+                "subject": "Конструирование теплообменных аппаратов"
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "lecture",
+                "audience": "2104",
+                "teacher": "Воеводин А.Г.",
+                "subject": "Конструирование теплообменных аппаратов"
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "lecture",
+                "audience": "5125",
+                "teacher": "Хрунков С.Н.",
+                "subject": "Компьютерные технологии в ЭМ"
+            }
+        },
+        "even": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "labwork",
+                "audience": "2104",
+                "teacher": "Воеводин А.Г.",
+                "subject": "Конструирование теплообменных аппаратов"
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "labwork",
+                "audience": "5125",
+                "teacher": "Хрунков С.Н.",
+                "subject": "Компьютерные технологии в ЭМ"
+            }
+        }
+    },
+    "wednesday": {
+        "odd": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "lecture",
+                "audience": "3304",
+                "teacher": "Тихомирова О.Б.",
+                "subject": "Конструирование ДВС"
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "practice",
+                "audience": "3304",
+                "teacher": "Тихомирова О.Б.",
+                "subject": "Конструирование ДВС"
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "practice",
+                "audience": "3304",
+                "teacher": "Тихомирова О.Б.",
+                "subject": "Конструирование ДВС"
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        },
+        "even": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        }
+    },
+    "thursday": {
+        "odd": {
+            "1": {
+                "time": "8:00-9:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:45-11:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:35-13:10",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:40-15:15",
+                "type": "practice",
+                "audience": "6502",
+                "teacher": "Иванов А.С.",
+                "subject": "Иностранный язык"
+            },
+            "5": {
+                "time": "15:25-17:00",
+                "type": "practice",
+                "audience": "6314",
+                "teacher": "Коптелов А.В.",
+                "subject": "Философские проблемы науки и техники"
+            },
+            "6": {
+                "time": "17:10-18:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        },
+        "even": {
+            "1": {
+                "time": "8:00-9:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:45-11:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:35-13:10",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:40-15:15",
+                "type": "practice",
+                "audience": "6502",
+                "teacher": "Иванов А.С.",
+                "subject": "Иностранный язык"
+            },
+            "5": {
+                "time": "15:25-17:00",
+                "type": "practice",
+                "audience": "6314",
+                "teacher": "Коптелов А.В.",
+                "subject": "Философские проблемы науки и техники"
+            },
+            "6": {
+                "time": "17:10-18:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        }
+    },
+    "friday": {
+        "odd": {
+            "1": {
+                "time": "8:00-9:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:45-11:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "~11:35-13:10",
+                "type": "labwork",
+                "audience": "ТО",
+                "teacher": "Суворов А.В.",
+                "subject": "Системы жизнеобеспечения обитаемых объектов"
+            },
+            "4": {
+                "time": "~13:40-15:15",
+                "type": "practice",
+                "audience": "ТО",
+                "teacher": "Суворов А.В.",
+                "subject": "Системы жизнеобеспечения обитаемых объектов"
+            },
+            "5": {
+                "time": "~15:25-17:00",
+                "type": "practice",
+                "audience": "ТО",
+                "teacher": "Суворов А.В.",
+                "subject": "Системы жизнеобеспечения обитаемых объектов"
+            },
+            "6": {
+                "time": "17:10-18:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        },
+        "even": {
+            "1": {
+                "time": "8:00-9:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:45-11:20",
+                "type": "lecture",
+                "audience": "6314",
+                "teacher": "Коптелов А.В.",
+                "subject": "Философские проблемы науки и техники"
+            },
+            "3": {
+                "time": "11:35-13:10",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:40-15:15",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "5": {
+                "time": "15:25-17:00",
+                "type": "labwork",
+                "audience": "",
+                "teacher": "ФИО",
+                "subject": "Научно-исследовательская работа"
+            },
+            "6": {
+                "time": "17:10-18:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        }
+    },
+    "saturday": {
+        "odd": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        },
+        "even": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        }
+    },
+    "sunday": {
+        "odd": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            }
+        },
+        "even": {
+            "1": {
+                "time": "7:30-9:05",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "2": {
+                "time": "9:20-10:55",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "3": {
+                "time": "11:10-12:45",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "4": {
+                "time": "13:15-14:50",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "5": {
+                "time": "15:00-16:35",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
+            },
+            "6": {
+                "time": "16:45-18:20",
+                "type": "none",
+                "audience": "",
+                "teacher": "",
+                "subject": ""
             }
         }
     }
